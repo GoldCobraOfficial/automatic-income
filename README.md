@@ -1,1 +1,1 @@
-# automatic-income
+automatic-income
